@@ -1,0 +1,9 @@
+bootstrap
+react-bootstrap
+react-pdf
+react-github-calendar
+react-icons
+react-tsparticle
+typewriter-effect
+react-router-dom
+react-tsparticles
